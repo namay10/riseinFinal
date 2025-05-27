@@ -2,11 +2,17 @@
 
 Contains a single page application for interacting with the review program
 
+## Prerequisites
+- Node.js (>=14.x)
+- npm or Yarn
+
+
 ## Getting Started
 
 First, install required libraries:
 
 ```bash
+cd riseinFinal/frontend
 npm install
 ```
 
