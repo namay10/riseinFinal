@@ -1,0 +1,5 @@
+/mnt/c/Users/namay/Downloads/rust/FinalRisein/review/target/debug/deps/libanchor_derive_serde-3b8128388b2e5f45.so: /home/namay10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anchor-derive-serde-0.31.1/src/lib.rs
+
+/mnt/c/Users/namay/Downloads/rust/FinalRisein/review/target/debug/deps/anchor_derive_serde-3b8128388b2e5f45.d: /home/namay10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anchor-derive-serde-0.31.1/src/lib.rs
+
+/home/namay10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anchor-derive-serde-0.31.1/src/lib.rs:
